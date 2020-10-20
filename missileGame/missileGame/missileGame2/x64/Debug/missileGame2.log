@@ -1,7 +1,0 @@
-﻿  Missile.cpp
-C:\Users\donal\OneDrive\Desktop\gameplay-programming-2020\missileGame\missileGame\missileGame2\Missile.cpp(94,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\donal\OneDrive\Desktop\gameplay-programming-2020\missileGame\missileGame\missileGame2\Missile.cpp(208,9): warning C4808: case '2' is not a valid value for switch condition of type 'bool'
-C:\Users\donal\OneDrive\Desktop\gameplay-programming-2020\missileGame\missileGame\missileGame2\Missile.cpp(211,9): warning C4808: case '3' is not a valid value for switch condition of type 'bool'
-C:\Users\donal\OneDrive\Desktop\gameplay-programming-2020\missileGame\missileGame\missileGame2\Missile.cpp(217,9): warning C4808: case '4' is not a valid value for switch condition of type 'bool'
-  LINK : C:\Users\donal\OneDrive\Desktop\gameplay-programming-2020\missileGame\missileGame\x64\Debug\missileGame2.exe not found or not built by the last incremental link; performing full link
-  missileGame2.vcxproj -> C:\Users\donal\OneDrive\Desktop\gameplay-programming-2020\missileGame\missileGame\x64\Debug\missileGame2.exe
